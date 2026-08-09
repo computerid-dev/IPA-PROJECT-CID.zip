@@ -1,0 +1,6 @@
+{
+  "name": "Science Adventure",
+  "description": "Aplikasi edukasi IPA berbasis game interaktif untuk siswa SD dan SMP dengan materi Biologi, Kimia, Fisika, Ilmu Bumi, Sains Umum, dan Test IPA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
